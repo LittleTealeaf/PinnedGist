@@ -1,0 +1,19 @@
+{
+  "name": "pinnedgist",
+  "version": "1.0.0",
+  "description": "Dynamically Updates my Pinned Gists",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleTealeaf/PinnedGist.git"
+  },
+  "author": "Thomas Kwashnak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LittleTealeaf/PinnedGist/issues"
+  },
+  "homepage": "https://github.com/LittleTealeaf/PinnedGist#readme"
+}
